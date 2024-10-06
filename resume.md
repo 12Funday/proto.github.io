@@ -6,21 +6,28 @@ title: Adi Sugita Pandey
 ## Introduction
 Dedicated and friendly engineers with a background in IT. Currently, in IT Support Manager role, providing support team in our day-to-day IT operations. I am always open to learning new things to support your business.
 
+---
 ## Skills
 **System Administrator and troubleshooting**
-Experience with Linux operating systems such as Debian, Ubuntu (both server and desktop), Alpine, Windows, etc.
+
+Experience with Linux operating systems such as Debian, Ubuntu (both server and desktop), Alpine etc.
 
 **Deployment in Containerization environment**
+
 Experience in delivering applications using Docker and Kubernetes.
 
 **Continues Integration Continues Delivery**
+
 Familiar with Jenkins, Private git (gitea).
 
 **Tools and Technologies**
+
 Asterisk • Cacti • Chrome DevTools • Cloudflare • Docker • Git • Google Docs • Google Kubernetes Engine • HAProxy • Jenkins • Kibana • K3s • MariaDB • Microsoft Office • MySQL • Nginx • PostgreSQL • Postman • Python • Terminal • VS Code • Wireshark 
 
+---
 ## Experience
 <a href="https://tel-access.biz/">PT. Teleakses Solusindo</a>
+
 is Jakarta Based AI Solutions Provider
 
 **IT Support Manager** • Aug, 2023 - Present • 1 yrs 2 mos
