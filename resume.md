@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Adi Sugita Pandey
 ---
 
 ## Introduction
