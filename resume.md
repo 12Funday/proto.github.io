@@ -1,8 +1,14 @@
 ---
 layout: page
+title: Resume
 ---
 
-## Introduction
+# Adi Sugita Pandey
+
+adispandey12@gmail.com
+--
+
+## Summary
 Dedicated and friendly engineers with a background in IT. Currently, in IT Support Manager role, providing support team in our day-to-day IT operations. I am always open to learning new things to support your business.
 
 ---
